@@ -12,3 +12,4 @@ for each row_rec in Purchase_Line_Items
     temp_total = (temp_total  +  row_rec.Line_Total);
 }
 input.Total_Amount = temp_total;
+//https://raw.githubusercontent.com/aorborc/learn-deluge/master/subform.js
